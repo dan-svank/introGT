@@ -41,4 +41,4 @@
 {
 		title: 'Have a good one',
 		intro: 'Cheers!'
-}]};
+}]}
