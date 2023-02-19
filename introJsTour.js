@@ -1,6 +1,6 @@
 {
-	disableInteraction: true,
-	dontShowAgain: true,
+	'disableInteraction': true,
+	'dontShowAgain': true,
 	steps: [{
 	title: 'Even Newer Menu Tour',
 	intro: 'Just testing...'
