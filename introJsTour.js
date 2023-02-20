@@ -1,8 +1,8 @@
-let t = {
-	steps: [
+{
+	'steps': [
 		{
-			title: 'Test',
-			intro: 'Hello world'
+			'title': 'Test',
+			'intro': 'Hello world'
 		}
 	]
 }
