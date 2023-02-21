@@ -2,7 +2,7 @@ let t = {
 	'steps': [
 		{
 			'title': 'Priorities',
-			'intro': 'asd\nd'
+			'intro': 'asd<\ br>d'
 		}
 	]
 };
