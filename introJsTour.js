@@ -30,8 +30,8 @@ let t = {
 	'intro': 'This is Horses'
 },
 {
-	'title': 'For the Future',
-	'intro': 'High hopes!'
+	'title': 'That was it!',
+	'intro': 'The next is for a future test'
 },
 {
 	'element': document.querySelector('.Casino'),
