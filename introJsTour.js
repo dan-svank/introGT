@@ -2,8 +2,12 @@ let t = {
 	'disableInteraction': true,
 	'dontShowAgain': true,
 	'steps': [{
-	'title': 'Even Newer Menu Tour',
-	'intro': 'Just testing...'
+	'title': 'In the meantime... ',
+	'intro': 'You can click "Dont show again" and then click outside the box.'
+},
+{
+	'title': 'Anyways, not ready yet but...',
+	'intro': 'It wont work before logging in.'
 },
 {
 	'element': document.querySelector('.Cashier'),
