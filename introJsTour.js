@@ -1,4 +1,5 @@
-let t = {
+let t = {};
+/*let t = {
 	'disableInteraction': true,
 	'dontShowAgain': true,
 	'steps': [{
@@ -45,4 +46,4 @@ let t = {
 {
 	'title': 'Have a good one',
 	'intro': 'Cheers!'
-}]};
+}]}; */
